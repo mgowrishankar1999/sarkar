@@ -1,0 +1,6 @@
+.sponsorImage{
+    background-color:black;
+}
+.sponsorImage:hover{
+    filter: brightness(0.8) contrast(1.2) hue-rotate(-30deg); 
+}
